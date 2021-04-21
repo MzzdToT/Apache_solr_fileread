@@ -11,7 +11,7 @@ Apache Solr <= 8.8.1（目前官方拒绝修复，或许是一个全版本漏洞
 python3 Apache_solr_fileread.py -u http://127.0.0.1:1111 单个url测试
 
 python3 Apache_solr_fileread.py -c http://127.0.0.1:1111 cmdshell模式
-[exp](exp.png)
+![exp](./exp.png)
 
 python3 Apache_solr_fileread.py -f url.txt 批量检测
 
